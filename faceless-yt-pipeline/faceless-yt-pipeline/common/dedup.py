@@ -1,4 +1,4 @@
-Prevents any channel from repeating a topic it has already covered.
+
 import json
 import os
 
